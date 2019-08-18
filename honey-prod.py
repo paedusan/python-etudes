@@ -1,7 +1,9 @@
 
 # coding: utf-8
 
-# # short data science project
+# # short data science project: Linear regression
+# uses the Kaggle honey production dataset
+# https://www.kaggle.com/jessicali9530/honey-production
 
 # In[ ]:
 
